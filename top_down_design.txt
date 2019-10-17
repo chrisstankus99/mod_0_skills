@@ -1,0 +1,32 @@
+Becoming a Turing Student
+
+1 Work on study habits
+ 1.1 make a daily checklist
+  1.1.1 go to github.com
+  1.1.2 go to your projects
+  1.1.3 click on Mod 0
+  1.1.4 click the plus mark on a card
+  1.1.5 write out a checklist
+  1.1.6 click add
+ 1.2 do the daily practice
+  1.2.1 go to github
+  1.2.2 click on your projects
+  1.2.3 go to Mod 0
+  1.2.4 do the daily practice
+  1.2.5 check off what you did
+2 Be prepared
+  2.1 practice typing
+    2.1.1 go to typing.io
+    2.1.2 use typing.io to practice typing faster
+3 Memorize shortcuts
+  3.1 practice spectacle shortcuts
+    3.1.1 open spectacle
+    3.1.2 look through shortcuts
+    3.1.3 practice the ones that are useful
+  3.2 practice terminal shortcuts
+    3.2.1 open the terminal
+    3.2.2 practice with various shortcuts
+  3.3 practice atom shortcuts
+    3.3.1 open atom
+    3.3.2 practice with shortcuts
+4 Learn how to learn
