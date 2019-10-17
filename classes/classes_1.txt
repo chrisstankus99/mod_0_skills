@@ -1,0 +1,15 @@
+Class: table
+
+Attributes:
+totalCapacity(integer)
+currentCapacity(integer)
+color(string)
+tableType(string)
+condiment(boolean)
+
+Methods:
+changeColor(changes the color)
+addCustomer(adds to the currentCapacity)
+addChair(adds to the totalCapacity)
+removeChair(subtracts to the total totalCapacity)
+addCondiment(changes condiment to true)
