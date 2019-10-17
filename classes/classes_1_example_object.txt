@@ -1,0 +1,16 @@
+Booth table
+
+
+Attributes:
+totalCapacity: 7
+currentCapacity: 5
+color(string): red
+tableType(string): Booth
+condiment(boolean): true
+
+Methods:
+changeColor(color = blue)
+addCustomer(currentCapacity + 1)
+addChair(totalCapacity + 1)
+removeChair(totalCapacity - 1)
+addCondiment(condiment = true)
