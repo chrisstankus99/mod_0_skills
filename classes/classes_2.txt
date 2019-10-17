@@ -1,0 +1,13 @@
+Class: cup of drink
+
+Attributes:
+totalVolume(integer)
+currentVolume(integer)
+ice(boolean)
+drinkType(string)
+
+Methods:
+pourBeverage(changes currentVolume to 0)
+fillBeverage(changes currentVolume to 100%)
+addIce(changes ice to true)
+changeBeverage(changes drink type)

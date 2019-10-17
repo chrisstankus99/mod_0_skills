@@ -1,0 +1,13 @@
+Glass of Water
+
+Attributes:
+totalVolume(30oz)
+currentVolume(20oz)
+ice(true)
+drinkType(water)
+
+Methods:
+pourBeverage(changes currentVolume to 0) 20oz = 0
+fillBeverage(changes currentVolume to 100%) 20oz + 10oz = 30oz
+addIce(changes ice to true) ice = true
+changeBeverage(changes drink type) drinkType = soda
